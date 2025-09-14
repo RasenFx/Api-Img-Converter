@@ -3,6 +3,12 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+# Project specific
+/uploads/
+/output/
+/converted-image.webp
+/test-image.jpg
+
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
@@ -28,3 +34,5 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+.idea
